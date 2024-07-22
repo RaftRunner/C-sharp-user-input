@@ -1,0 +1,14 @@
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\bin\Debug\net8.0\userInputTest.exe
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\bin\Debug\net8.0\userInputTest.deps.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\bin\Debug\net8.0\userInputTest.runtimeconfig.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\bin\Debug\net8.0\userInputTest.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\bin\Debug\net8.0\userInputTest.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\obj\Debug\net8.0\userInputTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\obj\Debug\net8.0\userInputTest.AssemblyInfoInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\obj\Debug\net8.0\userInputTest.AssemblyInfo.cs
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\obj\Debug\net8.0\userInputTest.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\obj\Debug\net8.0\userInputTest.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\obj\Debug\net8.0\refint\userInputTest.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\obj\Debug\net8.0\userInputTest.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\obj\Debug\net8.0\userInputTest.genruntimeconfig.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\userInputTest\obj\Debug\net8.0\ref\userInputTest.dll
